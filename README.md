@@ -127,19 +127,31 @@ $MLevene_C -i meta_input.txt -o outfile.txt &
 
 The output text file will look like this, with column Levene_MetaPval denoting the meta-analyzed Levene’s test p-value.
 
--Name: marker name
--EA: Effective allele	
--NEA: Non-effective allele	
--N: total sample size	
--N_0: aggregated major allele homozygote count	
--N_1: aggregated heterozygote count	
--N_2: aggregated minor allele homozygote count	
--CohortCount: total number of cohort sites included	
--MetaStatN: numerator
--MetaStatD: denominator	
--MetaLevene: statistics	
--P: meta Levene’s p-value	
--Pressence: indicating the SNP is present in which site with respect to orders in the input file.
+- Name: marker name
+
+- EA: Effective allele	
+
+- NEA: Non-effective allele	
+
+- N: total sample size	
+
+- N_0: aggregated major allele homozygote count	
+
+- N_1: aggregated heterozygote count	
+
+- N_2: aggregated minor allele homozygote count	
+
+- CohortCount: total number of cohort sites included	
+
+- MetaStatN: numerator
+
+- MetaStatD: denominator	
+
+- MetaLevene: statistics	
+
+- P: meta Levene’s p-value	
+
+- Pressence: indicating the SNP is present in which site with respect to orders in the input file.
 
 
 
