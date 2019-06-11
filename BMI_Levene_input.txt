@@ -1,0 +1,6 @@
+Stage1TestingOutputs/BMI_STUDY1.txt
+Stage1TestingOutputs/BMI_STUDY2.txt
+Stage1TestingOutputs/BMI_STUDY3.txt
+Stage1TestingOutputs/BMI_STUDY4.txt
+Stage1TestingOutputs/BMI_STUDY5.txt
+Stage1TestingOutputs/BMI_STUDY6.txt

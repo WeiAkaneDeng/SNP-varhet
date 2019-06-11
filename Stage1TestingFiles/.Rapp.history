@@ -1,0 +1,14 @@
+getwd()#
+
+setwd("~/Stage1TestingFiles")#
+
+setwd("~./Stage1TestingFiles")#
+#
+
+setwd("./Stage1TestingFiles")#
+#
+
+samplefile1 <- read.table("./Stage1TestingFiles/Study1/BMI_1.txt", head=T)#
+
+getwd()#
+
