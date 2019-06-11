@@ -1,4 +1,4 @@
-# SNP-verhet
+# SNP-varhet
 Updated August 2018
 
 ###### Wei Q. Deng (<deng@utstat.toronto.edu>) and Reedik Magi (<reedikm@gmail.com>)
