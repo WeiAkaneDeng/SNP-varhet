@@ -3,7 +3,7 @@ Updated August 2018
 
 ###### Wei Q. Deng (<deng@utstat.toronto.edu>) and Reedik Magi (<reedikm@gmail.com>)
 
-The software includes perl scripts to perform genome-wide analysis and meta analysis of SNP exhibiting heterogeneity in phenotypic variances in the current release.  The perl scripts are used to obtain summary statistics in individual study centres while the R scripts are used for meta-analyzing the results centrally. Acceptable data formats include TPED and SNPTEST, which could be generated using PLINK.
+The software includes perl scripts to perform genome-wide analysis and meta analysis of SNP exhibiting heterogeneity in phenotypic variances in the current release.  The perl scripts are used to obtain summary statistics in individual study centres while the R scripts are used for meta-analyzing the results centrally. Acceptable data formats include TPED and SNPTEST, which could be generated using PLINK. The publication with derivation can be found here (<https://www.nature.com/articles/ejhg2013166>).
 
 #### For individual participating cohorts in
 
