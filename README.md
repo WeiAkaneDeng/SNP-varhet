@@ -3,7 +3,14 @@ Updated August 2018
 
 ###### Wei Q. Deng (<deng@utstat.toronto.edu>) and Reedik Magi (<reedikm@gmail.com>)
 
-The software includes a suite of porgrams/scripts (perl, c++, R) to perform genome-wide analysis and meta analysis of SNP exhibiting heterogeneity in phenotypic variances in the current release. The perl scripts are first used to obtain summary statistics in individual study centres while the MLEVINE program is used for meta-analyzing the results centrally. An R script is also included for data analysis on the human X-chromosome. Acceptable data formats include TPED and SNPTEST, which could be generated using PLINK. The publication on meta-analysis of Levene's test can be found here (<https://www.nature.com/articles/ejhg2013166>).
+The software includes a suite of porgrams/scripts (perl, C++, R) to perform genome-wide analysis and meta analysis of SNP exhibiting heterogeneity in phenotypic variances in the current release. The perl scripts are first used to obtain summary statistics in individual study centres while the MLEVINE program is used for meta-analyzing the results centrally. An R script is also included for data analysis on the human X-chromosome. Acceptable data formats include TPED and SNPTEST, which could be generated using PLINK. 
+
+#### Reference
+
+The publication on meta-analysis of Levene's test can be found here (<https://www.nature.com/articles/ejhg2013166>).
+
+Deng, W., Asma, S. & Paré, G. Meta-analysis of SNPs involved in variance heterogeneity using Levene’s test for equal variances. Eur J Hum Genet 22, 427–430 (2014). https://doi.org/10.1038/ejhg.2013.166
+
 
 #### For individual participating cohorts in
 
